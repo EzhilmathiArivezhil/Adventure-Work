@@ -1,0 +1,52 @@
+[
+    {
+        "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Product_Categories.csv",
+        "file_folder" : "AdventureWorks_Product_Categories",
+        "file_name" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Calendar.csv",
+        "file_folder" : "AdventureWorks_Calendar",
+        "p_sink_file" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Customers.csv",
+        "file_folder" : "AdventureWorks_Customers",
+        "file_name" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Product_Subcategories.csv",
+        "file_folder" : "Product_Subcategories",
+        "file_name" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Products.csv",
+        "file_folder" : "AdventureWorks_Products",
+        "file_name" : "AdventureWorks_Products.csv"
+    },
+    {
+        "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Returns.csv",
+        "file_folder" : "AdventureWorks_Returns",
+        "file_name":"AdventureWorks_Returns.csv"
+    },
+    {
+        "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Sales_2015.csv",
+        "file_folder" : "AdventureWorks_Sales_2015",
+        "file_name" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Sales_2016.csv",
+        "file_folder" : "AdventureWorks_Sales_2016",
+        "file_name" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Sales_2017.csv",
+        "file_folder" : "AdventureWorks_Sales_2017",
+        "file_name" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Territories.csv",
+        "file_folder" : "AdventureWorks_Territories",
+        "file_name" : "AdventureWorks_Territories.csv"
+    }
+]

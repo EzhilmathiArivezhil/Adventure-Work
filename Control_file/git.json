@@ -7,7 +7,7 @@
     {
         "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Calendar.csv",
         "file_folder" : "AdventureWorks_Calendar",
-        "p_sink_file" : "AdventureWorks_Calendar.csv"
+        "file_name" : "AdventureWorks_Calendar.csv"
     },
     {
         "rel_url" : "EzhilmathiArivezhil/Adventure-Work/refs/heads/main/Datasets/AdventureWorks_Customers.csv",

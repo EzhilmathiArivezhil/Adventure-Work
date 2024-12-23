@@ -1,0 +1,19 @@
+{
+    "name": "GitJson",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "AdventureLinkedService",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "Json",
+        "typeProperties": {
+            "location": {
+                "type": "AzureBlobFSLocation",
+                "fileName": "git.json",
+                "fileSystem": "parameter"
+            }
+        },
+        "schema": {}
+    }
+}
